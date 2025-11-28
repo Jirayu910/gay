@@ -19,3 +19,4 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ### ระบบสั่งอาหารร้าน MK Shop ยังไม่ได้เพิ่มประเภทสินค้า
+"# gayd" 
